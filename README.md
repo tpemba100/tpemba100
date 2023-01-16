@@ -6,7 +6,9 @@
 
       LinkedIn - www.linkedin.com/in/tpemba
       
-      Website - www.tpemba.com
+      Website - www.tpemba.myportfolio.com            
+                
+                www.tpemba100.github.io/portfolio
       
       Email - Tpemba.96@gmail.com
 
