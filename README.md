@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tsering Pemba.
 - 👀 I’m interested in being a developer with background in visual and user experience design.
-- 🌱 I’m currently learning to master React.JS and backend development by learning everyday and building real full projects from design to development.
+- 🌱 I’m comfortable with HTML, CSS, JS, React.JS and Node. I attended a bootcamp for frontend and gained knowledge to build my own applications from design to development.
 - 💞️ I’m looking to collaborate on any projects that may require a hybrid role that act as a bridge between UX designer and fullstack Developer.
 - 📫 How to reach me 
 
