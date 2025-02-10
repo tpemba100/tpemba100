@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tsering Pemba</h1>
-<h3 align="center">I’m interested in being a developer with background in visual and user experience design.</h3>
+<h3 align="center">I’m interested in being a software developer with background in visual and user experience design.</h3>
 
-- 🔭 I’m currently working on [Book Club](https://github.com/tpemba100/book-club)
+- 🔭 I’m recently deployed [Book Club](https://github.com/tpemba100/book-club)
 
 - 👯 I’m looking to collaborate on [Book Club](https://github.com/tpemba100/book-club)
 
-- 👨‍💻 All of my projects are available at [https://www.tpemba.com](https://www.tpemba.com)
+- 👨‍💻 My projects are available at [https://www.tpemba.com](https://www.tpemba.com)
 
-- 📄 Know about my experiences [https://www.tpemba.com/static/media/TseringPemba_Resume.da1c6be65d106faee2a3.pdf](https://www.tpemba.com/static/media/TseringPemba_Resume.da1c6be65d106faee2a3.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
