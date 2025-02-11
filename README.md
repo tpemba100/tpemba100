@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tsering Pemba</h1>
 <h3 align="center">I’m interested in being a software developer with background in visual and user experience design.</h3>
 
-- 🔭 I’m recently deployed [Book Club](https://github.com/tpemba100/book-club)
+- 🔭 I'm currently working on completing Himalingo.
+
+- 🔭 I recently deployed [Book Club](https://github.com/tpemba100/book-club)
 
 - 👯 I’m looking to collaborate on [Book Club](https://github.com/tpemba100/book-club)
 
